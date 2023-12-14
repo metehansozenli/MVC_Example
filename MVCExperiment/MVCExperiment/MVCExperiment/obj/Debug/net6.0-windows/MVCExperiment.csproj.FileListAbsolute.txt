@@ -1,0 +1,44 @@
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.UsersView.resources
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.csproj.GenerateResource.cache
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.AssemblyInfoInputs.cache
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.AssemblyInfo.cs
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.csproj.CoreCompileInputs.cache
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\bin\Debug\net6.0-windows\MVCExperiment.exe
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\bin\Debug\net6.0-windows\MVCExperiment.deps.json
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\bin\Debug\net6.0-windows\MVCExperiment.runtimeconfig.json
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\bin\Debug\net6.0-windows\MVCExperiment.dll
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\bin\Debug\net6.0-windows\MVCExperiment.pdb
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.dll
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\refint\MVCExperiment.dll
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.pdb
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.genruntimeconfig.cache
+C:\Users\volkan\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\ref\MVCExperiment.dll
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\bin\Debug\net6.0-windows\MVCExperiment.exe
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\bin\Debug\net6.0-windows\MVCExperiment.deps.json
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\bin\Debug\net6.0-windows\MVCExperiment.runtimeconfig.json
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\bin\Debug\net6.0-windows\MVCExperiment.dll
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\bin\Debug\net6.0-windows\MVCExperiment.pdb
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.csproj.AssemblyReference.cache
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.UsersView.resources
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.csproj.GenerateResource.cache
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.AssemblyInfoInputs.cache
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.AssemblyInfo.cs
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.csproj.CoreCompileInputs.cache
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.dll
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\refint\MVCExperiment.dll
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.pdb
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.genruntimeconfig.cache
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\ref\MVCExperiment.dll
+C:\Users\bilmuh\source\repos\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.Form1.resources
+D:\C# Görsel Programlama\MVCExperiment\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.csproj.AssemblyReference.cache
+D:\C# Görsel Programlama\MVCExperiment\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.Form1.resources
+D:\C# Görsel Programlama\MVCExperiment\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.csproj.GenerateResource.cache
+D:\C# Görsel Programlama\MVCExperiment\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Görsel Programlama\MVCExperiment\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.AssemblyInfoInputs.cache
+D:\C# Görsel Programlama\MVCExperiment\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.AssemblyInfo.cs
+D:\C# Görsel Programlama\MVCExperiment\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.csproj.CoreCompileInputs.cache
+D:\C# Görsel Programlama\MVCExperiment\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.dll
+D:\C# Görsel Programlama\MVCExperiment\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\refint\MVCExperiment.dll
+D:\C# Görsel Programlama\MVCExperiment\MVCExperiment\MVCExperiment\obj\Debug\net6.0-windows\MVCExperiment.pdb
